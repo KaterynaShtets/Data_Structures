@@ -1,0 +1,7 @@
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\bin\Debug\LinkedsStack.exe.config
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\bin\Debug\LinkedsStack.exe
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\bin\Debug\LinkedsStack.pdb
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\obj\Debug\LinkedsStack.csprojAssemblyReference.cache
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\obj\Debug\LinkedsStack.csproj.CoreCompileInputs.cache
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\obj\Debug\LinkedsStack.exe
+C:\Users\katri\OneDrive\Рабочий стол\LinkedsStack\LinkedsStack\obj\Debug\LinkedsStack.pdb

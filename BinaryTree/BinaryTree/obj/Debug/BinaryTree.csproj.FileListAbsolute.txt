@@ -1,0 +1,7 @@
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\katri\OneDrive\Рабочий стол\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

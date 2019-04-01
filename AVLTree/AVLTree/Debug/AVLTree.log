@@ -1,0 +1,3 @@
+﻿  AVLTree.cpp
+d:\c++\avltree\avltree\avltree.cpp(347): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : fatal error LNK1168: cannot open D:\C++\AVLTree\Debug\AVLTree.exe for writing

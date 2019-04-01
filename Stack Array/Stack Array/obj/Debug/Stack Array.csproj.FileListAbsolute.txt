@@ -1,0 +1,7 @@
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\bin\Debug\Stack Array.exe.config
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\bin\Debug\Stack Array.exe
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\bin\Debug\Stack Array.pdb
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\obj\Debug\Stack Array.csprojAssemblyReference.cache
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\obj\Debug\Stack Array.csproj.CoreCompileInputs.cache
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\obj\Debug\Stack Array.exe
+C:\Users\katri\OneDrive\Рабочий стол\Stack Array\Stack Array\obj\Debug\Stack Array.pdb

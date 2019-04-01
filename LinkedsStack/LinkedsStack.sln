@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedsStack", "LinkedsStack\LinkedsStack.csproj", "{2F19707B-E76C-41BA-A504-4E2373E34628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F19707B-E76C-41BA-A504-4E2373E34628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F19707B-E76C-41BA-A504-4E2373E34628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F19707B-E76C-41BA-A504-4E2373E34628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F19707B-E76C-41BA-A504-4E2373E34628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731A5CB8-D50D-4B4D-A40D-544DAFB9046D}
+	EndGlobalSection
+EndGlobal
